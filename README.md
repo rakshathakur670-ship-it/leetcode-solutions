@@ -23,4 +23,16 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
