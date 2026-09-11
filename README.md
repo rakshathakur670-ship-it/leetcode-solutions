@@ -8,6 +8,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0133-clone-graph) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -52,4 +54,12 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
