@@ -27,10 +27,12 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
