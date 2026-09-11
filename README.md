@@ -7,6 +7,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0133-clone-graph) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
