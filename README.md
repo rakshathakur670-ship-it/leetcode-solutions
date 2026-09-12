@@ -10,6 +10,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +67,12 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
