@@ -9,6 +9,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +56,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
