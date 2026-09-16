@@ -10,6 +10,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
@@ -17,6 +18,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0133-clone-graph) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 ## Graph Theory
 |  |
 | ------- |
@@ -85,4 +88,17 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
+## Math
+|  |
+| ------- |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
+## Tree
+|  |
+| ------- |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
+## Number Theory
+|  |
+| ------- |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 <!---LeetCode Topics End-->
