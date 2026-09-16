@@ -35,6 +35,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [0133-clone-graph](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0133-clone-graph) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -69,6 +71,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +84,5 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
