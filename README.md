@@ -92,6 +92,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 ## Tree
 |  |
