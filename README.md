@@ -35,6 +35,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -102,4 +103,12 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
