@@ -9,6 +9,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 | [0130-surrounded-regions](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0134-gas-station) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -94,6 +95,7 @@ MY LEETCODE SOLUTIONS AND PROBLEM SOLVING PRACTICE
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/rakshathakur670-ship-it/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 ## Tree
 |  |
